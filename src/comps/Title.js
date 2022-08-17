@@ -5,7 +5,7 @@ const Title = () => {
     <div className="title">
       <h1>FireGram</h1>
       <h2>Your Photos</h2>
-      <p></p>
+      {/* <p></p> */}
     </div>
   )
 }
